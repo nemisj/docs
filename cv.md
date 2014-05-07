@@ -5,7 +5,7 @@
 
 **Name**: Maksim Nemisj
 
-**Birthdate**: 23 okt 1984
+**Birthdate**: 23 october 1984
 
 **Nationality**: Ukrainian
 
@@ -71,8 +71,7 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 ## Work experience
 
-### 2010 november - till now
-, Senior JavaScript developer,  Informaat IPE BV,  Baarn
+##### 2010 november - till now , Senior JavaScript developer,  Informaat IPE BV,  Baarn 
 
 ( <http://www.informaat-cxp.com/> )
 	
@@ -95,7 +94,7 @@ __Achievements__ :
 
 * Setting up UI testing framework ( using Selenium webdriver )
 
-	__Description__: Before Protractor of angular came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the jenknis.
+	__Description__: Before Protractor of angular came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the Jenknis.
 		
 * Building selfcontained "Development environment” ( using vagrant, bash-scripting and python )
 
@@ -110,40 +109,42 @@ __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.
 
 ######  2008 february - 2010 october: , Senior JavaScript developer, Mendix BV, Rotterdam
 
-After University I stayed working 
+After I have finished my final assesement I stayed working at Mendix and become main developer of the Mendix Client Framework.
 
 __Department__ 	: R&D
 
 __Achievements__ :
  
-* Ontwerpen en implementeren van architectuur voor de volgende versie van framework Lead developer / 2.5 release van web framework
+* Creating architecture and implementing next version of the Mendix Client Framework ( v. 2.5 )
 
-* JavaScript performance analysis, mostly IE6 ( using memory profiler )
+
+
+* JavaScript performance analysis, IE6 ( using memory profiler )
+
+Created by the Mendix Platform apps become bigger and bigger. Logic inside it became more complex and screens became more full. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave you very low-level footprint of the browser memory and this is what I had to deal with. Got really a lot of profiling experiance and a lot of knowldge of the JavaScript internals, like how objects are created in memory how they leave, how garbage collector actually work and this kind of aspects.
 
 * Improving and stabilizing the previous version of the Mendix client framework
 
 * Teaching and supervising junior JavaScript developer 
 
-* Supervising student for his greduate job
+* Supervising student for his greduate project
 
 __Keywords__: IE6 performance, memory analysis,  
 
 
 ######  2007 september - 2008 february: Greduate student, Mendix, Rotterdam
 
-As my final part of the education I had to do "thesis" which I've "executed" at mendix aswel….
+At my last year of the education at The Hague The University of Applied Sciences, I had to do the final assesment and write process-report of it. My subject at that time was "Server-push technoogy"
 
 __Department__ 	: R&D
 
 __Achievements__ :
 
-* Designing and implementing server-push technology
+* Designing and implementing server-push technology in the Mendix Application Server and Mendix Client Framework
 
-* Front-end core in JavaScript
+At this time I had to implement server-push technology on the backend but also on the fron-end, so end-2-end solution. There were a couple of different approaches at that time, but I stoped at Bayeux protocol defined by dojotoolkit, the main challange was to add support of it at the backend and connect both worlds together.
 
-* Server side in Java
-
-__Keywords__: Comet, 
+__Keywords__: Comet, Bayeux, Jetty Continuation
 
 ###### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
 
