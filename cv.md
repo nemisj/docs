@@ -147,7 +147,7 @@ __Keywords__: Comet,
 
 ###### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
 
-After I finished my internship by Mendix I have decided to stay there. Because I was still studen I had to Switch to the "Dual education" so that I could combine work and study together.
+After I finished my internship by Mendix I have decided to stay there. Because I was still studen I had to switch to the "Dual education" so that I could combine work and study together.
 
 When working there as a dual student, I had to perform different tasks, not only related to the javascript and dojo, but also to the C# and Java.
 
@@ -178,15 +178,19 @@ __Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DND
 
 Started working at Mendix <http://mendix.com> as student ( Intern/Internship ).
 
+This was the beginning of the Mendix history and my proffesional career. Their idea is very simple, to build, run and deploy app using Mendidx Platform. Mendix Platform includes Business Modeler, which is used to build an app ( using form builder ) and deploy it to the Mendix Application Server. Mendix Client Framework, single-page client framework which runs deployed app in the browser.
+
 __Department__ 	: R&D
 
 __Achievements__ :
 
 * Creating widgets for web-based client framework ( using dojotoolkit )
 
-This was the beginning of the Mendix history and my proffesional career. Their idea is very simple, to build, run and deploy app using Mendidx Platform. Mendix Platform includes Business Modeler, which is used to build an app and deploy it to the  Mendix Application Server. Mendix Client Framework,  single-page client framework which runs deployed app in the browser. 
-
 At that time Mendix Client Framework was based on the dojotoolkit ( http://dojotoolkit.org/), and even though dojo had at that time already some stack of ui widgets, there was a lack for custom widgets which Mendix was planning to use. So my role as a student at this startup company was to code different custom widgets and other ui components.
+
+* Thesis: Composition versus Inheritance in Java
+
+As an intern student I also had to write a thesis. My subject was "Composition versus Inheritance in Java". The main idea of it was to see what does bring compision in place of inheritance. Does it solve problem of deep hyerarhical erlations.  Also I looked not only at the maintances problem of the inheritance but at the memory consumption when composition used and inheritance.
 
 __Keywords__: Native javascript, dojotoolkit
  
