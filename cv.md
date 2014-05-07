@@ -159,20 +159,20 @@ __Achievements__ :
 	
 One of my projects in that period of time was to implement Webservice layer inside Mendix Application Server, so that it could connect to the webservices. The one unusual aspect of that project was, that this module had to support also DIME attachements.
 
-* Implemented "Planner" UI-module in JavaScript.
+* Implemented "Planner" UI-module ( in JavaScript )
 	
-	This was custom widget to have minimal ui for Gantt chart like planngins.
+This was custom widget to have minimal ui for Gantt chart like planngins. A lot of Drag and Drop ( dnd ) logic was invloved and at that time it also had to perform on IE6, so that was a bit challange. The knowldge of the dnd and performance tricks of dnd I also reused in another project "Web-Portal" 
 
 * Creating Planning module for Mendix Business Modeler ( in C# )
 
-	In order to use planner module in the client, it also had to be implemented inside Modeler tooling.
+In order to use planner module in the client, it also had to be implemented inside Modeler tooling, so that it could be included in the builded app. All work was done inside Mendix Business Modeler using .Net C# and GDI+.
 
 * Implementing portal ( in JavaScript )
 
-	Was creating set of custom widgets and creating infrastructer for configurable 'portlets'. It was something like iGoogle portal but only of Mendix.
+iGoogle at that time was something very sweet to look at, all this configurable portlets with different information, customizable for every user. It was something what was attractive for a lot of people and Mendix decided to include such possibility inside their platform. Mostly I was creating set of custom widgets and creating infrastructure for configurable 'portlets'. Again, dnd was, on-fly save of configuration and other effects were the challenging parts
 
 
-__Keywords__: WSDL, .NET C# 
+__Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DND
 
 ##### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
 
