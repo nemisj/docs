@@ -147,21 +147,23 @@ __Keywords__: Comet,
 
 ###### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
 
-After I finished my internship I've decided to stay at Mendix. Switched to the "Dual education" so that I could combine work and study.
+After I finished my internship by Mendix I have decided to stay there. Because I was still studen I had to Switch to the "Dual education" so that I could combine work and study together.
+
+When working there as a dual student, I had to perform different tasks, not only related to the javascript and dojo, but also to the C# and Java.
 
 __Department__ 	: R&D
 
 __Achievements__ :
 
-* Implmeneted Webservices module for backend system in Java ( using SAAJ ) and implemented extra layer to handle DIME attachements.
+* Implmeneted Webservices module for backend system in Java ( using Apache Axis ) and implemented extra layer to handle DIME attachements.
 	
-	At that momen Mendix decided to connect their backend ( Mendix Application Server ) system and interchange data with different web-services. For that reason I've implemented Webservice communication module with support of DIME attachements.
+One of my projects in that period of time was to implement Webservice layer inside Mendix Application Server, so that it could connect to the webservices. The one unusual aspect of that project was, that this module had to support also DIME attachements.
 
 * Implemented "Planner" UI-module in JavaScript.
 	
 	This was custom widget to have minimal ui for Gantt chart like planngins.
 
-* Workingout and creating Planning module for Mendix Business Modeler ( in C# )
+* Creating Planning module for Mendix Business Modeler ( in C# )
 
 	In order to use planner module in the client, it also had to be implemented inside Modeler tooling.
 
@@ -180,15 +182,17 @@ __Department__ 	: R&D
 
 __Achievements__ :
 
-* Creating widgets for web-based client framework ( using dojo.js )
+* Creating widgets for web-based client framework ( using dojotoolkit )
 
-	This was the beginning of the Mendix history. They started developing single-page framework based on dojo. While dojo had at that time already some stack of ui widgets, there was a lack for custom widgets which Mendix was planning to use. I was resposnsible for writing custom wideget and other ui components.
+This was the beginning of the Mendix history and my proffesional career. Their idea is very simple, to build, run and deploy app using Mendidx Platform. Mendix Platform includes Business Modeler, which is used to build an app and deploy it to the  Mendix Application Server. Mendix Client Framework,  single-page client framework which runs deployed app in the browser. 
 
-__Keywords__: Native javascript, dojo.js
+At that time Mendix Client Framework was based on the dojotoolkit ( http://dojotoolkit.org/), and even though dojo had at that time already some stack of ui widgets, there was a lack for custom widgets which Mendix was planning to use. So my role as a student at this startup company was to code different custom widgets and other ui components.
+
+__Keywords__: Native javascript, dojotoolkit
  
 ## Technologies:
 
-languages: JavaScript ( including ECMAScript 6 ), CSS3,  HTML5, Python, Java/J2EE, bash-scipting, C# .NET, C ( basis ),  Assembly ( basis ), Clojure ( basis )
+Languages: JavaScript ( including ECMAScript 6 ), CSS3,  HTML5, Python, Java/J2EE, bash-scipting, C# .NET, C ( basis ),  Assembly ( basis ), Clojure ( basis )
 
 Methodolgies: SCRUM, ITIL, Rational Unified Process ( RUP ), Extreme Programming (XP)
 
