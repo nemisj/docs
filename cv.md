@@ -117,15 +117,19 @@ __Department__ 	: R&D
 
 __Achievements__ :
  
-* Creating architecture and implementing next version of the Mendix Client Framework ( v. 2.5 )
+
 
 
 
 * JavaScript performance analysis, IE6 ( using memory profiler )
 
-Created by the Mendix Platform apps become bigger and bigger. Logic inside it became more complex and screens became more full. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave you very low-level footprint of the browser memory and this is what I had to deal with. Got really a lot of profiling experiance and a lot of knowldge of the JavaScript internals, like how objects are created in memory how they leave, how garbage collector actually work and this kind of aspects.
+Created by the Mendix Platform apps became bigger and bigger. Logic inside it became more complex and screens became more full. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool : JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave a very low-level footprint of the browser's memory. Got really a lot of profiling experience and a lot of knowledge of the JavaScript internals, like how objects are created in memory, how they constructed and destroyed, how garbage collector actually works and another kind of js aspects.
 
-* Improving and stabilizing the previous version of the Mendix client framework
+* Improving and stabilizing the previous version of the Mendix Client Framework
+
+* Creating architecture and implementing next version of the Mendix Client Framework ( v. 2.5 )
+
+
 
 * Teaching and supervising junior JavaScript developer 
 
