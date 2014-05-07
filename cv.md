@@ -147,7 +147,7 @@ __Keywords__: Comet,
 
 ###### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
 
-After I finished my internship I've decided to stay at Mendix. That's why I've switched to the "Dual education" so that I could combine work and study.
+After I finished my internship I've decided to stay at Mendix. Switched to the "Dual education" so that I could combine work and study.
 
 __Department__ 	: R&D
 
@@ -155,24 +155,24 @@ __Achievements__ :
 
 * Implmeneted Webservices module for backend system in Java ( using SAAJ ) and implemented extra layer to handle DIME attachements.
 	
-	At that momen Mendix decided to connect their backend ( Mendix Application Server ) and interchange data with different web-services. For that reason I've implemented  Webservice communication module with support of DIME attachements.
+	At that momen Mendix decided to connect their backend ( Mendix Application Server ) system and interchange data with different web-services. For that reason I've implemented Webservice communication module with support of DIME attachements.
 
-* Implemented "Planning" UI-module in JavaScript.
+* Implemented "Planner" UI-module in JavaScript.
 	
 	This was custom widget to have minimal ui for Gantt chart like planngins.
 
-* Uitwerken en realiseren van Rapportage module voor Mendix Business Modeler ( in C# )
+* Workingout and creating Planning module for Mendix Business Modeler ( in C# )
 
-	fusioncharts	
+	In order to use planner module in the client, it also had to be implemented inside Modeler tooling.
 
-* Implementeren van portal op bestaande Mendix Client ( in JavaScript )
-	
-	igoogle portal, infrastucture,
+* Implementing portal ( in JavaScript )
+
+	Was creating set of custom widgets and creating infrastructer for configurable 'portlets'. It was something like iGoogle portal but only of Mendix.
 
 
 __Keywords__: WSDL, .NET C# 
 
-###### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
+##### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
 
 Started working at Mendix <http://mendix.com> as student ( Intern/Internship ).
 
@@ -182,7 +182,7 @@ __Achievements__ :
 
 * Creating widgets for web-based client framework ( using dojo.js )
 
-	This was the beginning of the Mendix history. They started developing single-page framework based on dojo. While dojo had at that time already some stack of ui widgets, there was a lack for custom widgets which Mendix was planning to use. I was resposnsible for writing this widegets.
+	This was the beginning of the Mendix history. They started developing single-page framework based on dojo. While dojo had at that time already some stack of ui widgets, there was a lack for custom widgets which Mendix was planning to use. I was resposnsible for writing custom wideget and other ui components.
 
 __Keywords__: Native javascript, dojo.js
  
@@ -200,7 +200,7 @@ Additional: Design patterns, TCP/IP networks, Embedded systems
 
 Keywords : DOJO, jQuery, Backbone, Sencha, Heroku, couchDB, mongoDB, REST, json, nodejs, npm, Selenium,  Jenkins, svn, git, mercurial ,vi/vim, eclipse, fabric, asynchronous code
 
-## Hobby’s
+## Hobbies
 
 * Karate
-* Motorrijden
+* Motorcycling
