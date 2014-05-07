@@ -71,7 +71,7 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 ## Work experience
 
-##### 2010 november - till now , Senior JavaScript developer,  Informaat IPE BV,  Baarn 
+#### 2010 november - till now , Senior JavaScript developer,  Informaat IPE BV,  Baarn 
 
 ( <http://www.informaat-cxp.com/> )
 	
@@ -81,24 +81,24 @@ __Achievements__ :
 	
 * Architecturing and implementing schema based persistence layer ( using node.js, mongo and websockets. )
 
-	__Description__: This machinary helps Informaat to extend Domain Model of our application  without need to touch any part of the backend code and enables us to have immediate realtime persistence within the browser. While backend and schemas are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
+This machinary helps Informaat to extend Domain Model of our application  without need to touch any part of the backend code and enables us to have immediate realtime persistence within the browser. While backend and schemas are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
 
 
 * Building single-page data-driven client framework for Customer Experience Platform ( CXP ) “Dialogica” ( using knockout.js )
 
-	__Description__: This framework is using "model" to display single-page application in the browser. The application flow and data flow of the ui is fully drivven by the "model" itself. You can think of the model, like "configuration" of the single-page application. Model is drawn in Dialogica in a form of a data flow diagrams whih is interpreted by the client framework.   
+This framework is using "model" to display single-page application in the browser. The application flow and data flow of the ui is fully drivven by the "model" itself. You can think of the model, like "configuration" of the single-page application. Model is drawn in Dialogica in a form of a data flow diagrams whih is interpreted by the client framework.   
 
 * Establishing “Continuous Deployment” process ( using jenkins and bash-scripting )
 
-	__Description__: Setting up jenknis jobs and pre-commit hooks in order to guarantee one click deployment mechanism
+Setting up jenknis jobs and pre-commit hooks in order to guarantee one click deployment mechanism
 
 * Setting up UI testing framework ( using Selenium webdriver )
 
-	__Description__: Before Protractor of angular came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the Jenknis.
+Before Protractor of angular came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the Jenknis.
 		
 * Building selfcontained "Development environment” ( using vagrant, bash-scripting and python )
 
-	__Description__: Because of use of some legacy systems which could not run on various platforms like OSX, introduced and implemented vagrant virtual machine with all the skeleton code and helpfull tools for fast bootstrap of development.
+Because of use of some legacy systems which could not run on various platforms like OSX, introduced and implemented vagrant virtual machine with all the skeleton code and helpfull tools for fast bootstrap of development.
 
 * Coach developers for "JavaScript best practices"
 
@@ -107,7 +107,9 @@ __Achievements__ :
 __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.js, jenkins
 
 
-######  2008 february - 2010 october: , Senior JavaScript developer, Mendix BV, Rotterdam
+#### 2008 february - 2010 october: , Senior JavaScript developer, Mendix BV, Rotterdam
+
+( http://www.mendix.com/ )
 
 After I have finished my final assesement I stayed working at Mendix and become main developer of the Mendix Client Framework.
 
@@ -132,9 +134,11 @@ Created by the Mendix Platform apps become bigger and bigger. Logic inside it be
 __Keywords__: IE6 performance, memory analysis,  
 
 
-######  2007 september - 2008 february: Greduate student, Mendix, Rotterdam
+#### 2007 september - 2008 february: Greduate student, Mendix, Rotterdam
 
-At my last year of the education at The Hague The University of Applied Sciences, I had to do the final assesment and write process-report of it. My subject at that time was "Server-push technoogy"
+( http://www.mendix.com/ )
+
+At my last year of the education at The Hague The University of Applied Sciences, I had to do the final assesment and write process-report of it. My subject at that time was "Server-push technoogy".
 
 __Department__ 	: R&D
 
@@ -146,7 +150,7 @@ At this time I had to implement server-push technology on the backend but also o
 
 __Keywords__: Comet, Bayeux, Jetty Continuation
 
-###### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
+#### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
 
 After I finished my internship by Mendix I have decided to stay there. Because I was still studen I had to switch to the "Dual education" so that I could combine work and study together.
 
@@ -175,7 +179,7 @@ iGoogle at that time was something very sweet to look at, all this configurable 
 
 __Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DND
 
-##### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
+#### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
 
 Started working at Mendix <http://mendix.com> as student ( Intern/Internship ).
 
