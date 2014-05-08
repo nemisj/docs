@@ -81,8 +81,7 @@ __Achievements__ :
 	
 * Architecturing and implementing schema based persistence layer ( using node.js, mongo and websockets. )
 
-This machinary helps Informaat to extend Domain Model of an application  without need to touch any part of the backend code and enables us to have immediate realtime persistence within the browser. While backend and schemas are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
-
+This machinery helps Informaat to extend Domain Model of an application  without need to touch any part of the backend code and enables us to have immediate real-time persistence within the browser. While backend and schema's are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
 
 * Building single-page data-driven client framework for Customer Experience Platform ( CXP ) “Dialogica” ( using knockout.js )
 
@@ -94,11 +93,11 @@ Setting up jenknis jobs and pre-commit hooks in order to guarantee one click dep
 
 * Setting up UI testing framework ( using Selenium webdriver )
 
-Before Protractor of angular came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the Jenknis.
+Before Angular's Protractor came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the Jenknis.
 		
 * Building selfcontained "Development environment” ( using vagrant, bash-scripting and python )
 
-Because of use of some legacy systems which could not run on various platforms like OSX, introduced and implemented vagrant virtual machine with all the skeleton code and helpfull tools for fast bootstrap of development.
+Because of use of some legacy systems which could not run on various platforms like OSX, introduced and implemented vagrant virtual machine with all the skeleton code and helpful tools for fast bootstrap of development.
 
 * Coach developers for "JavaScript best practices"
 
@@ -123,18 +122,21 @@ Created by the Mendix Platform apps became bigger and bigger. Logic inside it be
 
 * Improving and stabilizing the previous version of the Mendix Client Framework
 
-Besides memory leaks and fast rendering of the application inside Internet Explorer 6, customer satisfaction is depending on the stability of the Framework itself. Improving, refactoring, cleaning up, stabilazing and making product stone-solid was my task. It was a busy process, full of long days and nights, but result was above any expectations. We could deliever very stable and light and clean version ( 2.4 ) of the Mendix Client Framework.
+Besides memory leaks and fast rendering of the application inside Internet Explorer 6, customer satisfaction is depending on the stability of the Framework itself. Improving, refactoring, cleaning up, stabilazing and making product stone-solid was my task. It was a busy process, full of long days and nights, but result was above any expectations. We could deliver very stable and light and clean version ( 2.4 ) of the Mendix Client Framework.
 
 * Creating architecture and implementing next version of the Mendix Client Framework ( v. 2.5 )
 
-Improvement and stabilization was the fundamental part for the next version. In this version ( 2.5 ) one where I was leading architect. A lot of new feutures where added, but also a lot of work was done for future plans. Most of the stuff was even not visible yet, but gave a basic for the functionality which came in further releases. To build a high quality product, it's important to design and implement every layer, step by step, changing things today which will be needed "after tomorrow".
+Improvement and stabilization was the fundamental part for the next version. In this version ( 2.5 ) I was the leading architect. A lot of new features where added, but also a lot of work was done for future plans. Most of the stuff was even not visible yet, but gave a basic for the functionality which came in further releases. To build a high quality product, it's important to design and implement every layer, step by step, changing things today which will be needed "after tomorrow".
 
-* Teaching and supervising junior JavaScript developer 
+* Teaching and supervising junior JavaScript developer
 
-* Supervising student for his greduate project
+Not only programming was part of my daily tasks, but also supervising a new junior JavaScript developer. Teaching him all the corners of our architecture and giving him different assessments. Telling things to others makes things more clear to myself, so it was a very useful period of my work at Mendix. Job makes people closer and we became not only good colleges, but also a good friends after that.
 
-__Keywords__: IE6 performance, memory analysis,  
+* Supervising student for his graduate project
 
+At the time of working at Mendix I also had possibility to supervise one student on his final assessment.
+
+__Keywords__: IE6 performance, memory analysis,  supervising junior, architecture 
 
 #### 2007 september - 2008 february: Greduate student, Mendix, Rotterdam
 
@@ -219,3 +221,9 @@ Keywords : DOJO, jQuery, Backbone, Sencha, Heroku, couchDB, mongoDB, REST, json,
 
 * Karate
 * Motorcycling
+
+## Etc
+
+**Keyboard**: dvorak
+**Editor**: ViM
+**envn**: terminal, gnu screen
