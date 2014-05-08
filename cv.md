@@ -81,7 +81,7 @@ __Achievements__ :
 	
 * Architecturing and implementing schema based persistence layer ( using node.js, mongo and websockets. )
 
-This machinary helps Informaat to extend Domain Model of our application  without need to touch any part of the backend code and enables us to have immediate realtime persistence within the browser. While backend and schemas are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
+This machinary helps Informaat to extend Domain Model of an application  without need to touch any part of the backend code and enables us to have immediate realtime persistence within the browser. While backend and schemas are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
 
 
 * Building single-page data-driven client framework for Customer Experience Platform ( CXP ) “Dialogica” ( using knockout.js )
@@ -116,20 +116,18 @@ After I have finished my final assesement I stayed working at Mendix and become 
 __Department__ 	: R&D
 
 __Achievements__ :
- 
-
-
-
 
 * JavaScript performance analysis, IE6 ( using memory profiler )
 
-Created by the Mendix Platform apps became bigger and bigger. Logic inside it became more complex and screens became more full. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool : JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave a very low-level footprint of the browser's memory. Got really a lot of profiling experience and a lot of knowledge of the JavaScript internals, like how objects are created in memory, how they constructed and destroyed, how garbage collector actually works and another kind of js aspects.
+Created by the Mendix Platform apps became bigger and bigger. Logic inside it became more complex and screens became more full. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool : JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave a very low-level footprint of the browser's memory. Got really a lot of profiling experience and a lot of knowledge of the JavaScript internals, like how objects are created in memory, how they constructed and destroyed, how garbage collector actually works and another kind of js-engine aspects.
 
 * Improving and stabilizing the previous version of the Mendix Client Framework
 
+Besides memory leaks and fast rendering of the application inside Internet Explorer 6, customer satisfaction is depending on the stability of the Framework itself. Improving, refactoring, cleaning up, stabilazing and making product stone-solid was my task. It was a busy process, full of long days and nights, but result was above any expectations. We could deliever very stable and light and clean version ( 2.4 ) of the Mendix Client Framework.
+
 * Creating architecture and implementing next version of the Mendix Client Framework ( v. 2.5 )
 
-
+Improvement and stabilization was the fundamental part for the next version. In this version ( 2.5 ) one where I was leading architect. A lot of new feutures where added, but also a lot of work was done for future plans. Most of the stuff was even not visible yet, but gave a basic for the functionality which came in further releases. To build a high quality product, it's important to design and implement every layer, step by step, changing things today which will be needed "after tomorrow".
 
 * Teaching and supervising junior JavaScript developer 
 
