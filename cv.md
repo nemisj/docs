@@ -75,7 +75,7 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 ( http://www.informaat-cxp.com/ )
 
-After five years of work at Mendix company I moved on further. To the new challenges, new possibilities and new fresh start. I have started working at Informaat, company focusing very deeply on User Experience ( UX ). Mainly it was focus on digital User Experience. This was the moment, when Informaat started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) with the tool "Deltalogica". It's was a starting point for them, so a lot had to be done, researched and tried out. This is where I become working with node.js, mongo, Angular, grunt and other new technologies.
+After five years of work at Mendix company I moved on further. To the new challenges, new possibilities and new fresh start. I have started working at Informaat. Company focusing very deeply on User Experience ( UX ). Mainly focusing on digital User Experience. This was the moment, when Informaat started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) with the tool "Deltalogica". It's was a starting point for them, so a lot had to be done, researched and tried out. This is where I started work closly with node.js, mongo, Angular, grunt and other new technologies.
 
 ( <http://www.informaat-cxp.com/> )
 	
@@ -85,11 +85,11 @@ __Achievements__ :
 	
 * Architecturing and implementing schema based persistence layer ( using node.js, mongo and websockets. )
 
-This machinery helps Informaat to extend Domain Model of an application  without need to touch any part of the backend code and enables us to have immediate real-time persistence within the browser. While back-end and schema's are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
+One of my primary ideas was that product in start-up company is exposed to rapid changes. To be able to deal with this changes our architecture should allow that. Make fast changing parts as flexible as they can be and fasten things which are known. Domain Model of the start-up application is something what changes constantly. For that reason I have implemented schema based persistence layer. It allows us to change Domain Model quickly without touching any bit on the back-end and having changed model immediately available within the client. Another important point is that data changes are real-time, which means that changing data on one computer will be broadcasted to all of them.
 
-* Building single-page data-driven client framework for Customer Experience Platform ( CXP ) “Dialogica” ( using knockout.js )
+* Building single-page data-driven client framework ( using knockout.js )
 
-This framework is using "model" to display single-page application in the browser. The application flow and data flow of the ui is fully drivven by the "model" itself. You can think of the model, like "configuration" of the single-page application. Model is drawn in Dialogica in a form of a data flow diagrams whih is interpreted by the client framework.   
+
 
 * Establishing “Continuous Deployment” process ( using jenkins and bash-scripting )
 
@@ -97,7 +97,7 @@ Setting up jenknis jobs and pre-commit hooks in order to guarantee one click dep
 
 * Setting up UI testing framework ( using Selenium webdriver )
 
-Before Angular's Protractor came out, had to write test runner which could execute tests ( in javascript ) using selenium and report them to the Jenknis.
+Before Angular's Protractor came out, had to write test runner which could execute javascript tests in different browsers  using selenium-hub and report them to the Jenknis.
 		
 * Building selfcontained "Development environment” ( using vagrant, bash-scripting and python )
 
