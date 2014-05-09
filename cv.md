@@ -73,6 +73,10 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 #### 2010 november - till now , Senior JavaScript developer,  Informaat IPE BV,  Baarn 
 
+( http://www.informaat-cxp.com/ )
+
+After five years of work at Mendix company I moved on further. To the new challenges, new possibilities and new fresh start. I have started working at Informaat, company focusing very deeply on User Experience ( UX ). Mainly it was focus on digital User Experience. This was the moment, when Informaat started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) with the tool "Deltalogica". It's was a starting point for them, so a lot had to be done, researched and tried out. This is where I become working with node.js, mongo, Angular, grunt and other new technologies.
+
 ( <http://www.informaat-cxp.com/> )
 	
 __Department__ 	: R&D
@@ -81,7 +85,7 @@ __Achievements__ :
 	
 * Architecturing and implementing schema based persistence layer ( using node.js, mongo and websockets. )
 
-This machinery helps Informaat to extend Domain Model of an application  without need to touch any part of the backend code and enables us to have immediate real-time persistence within the browser. While backend and schema's are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
+This machinery helps Informaat to extend Domain Model of an application  without need to touch any part of the backend code and enables us to have immediate real-time persistence within the browser. While back-end and schema's are relational, data on the client is Document based, which gives developers power and freedom to work with it. 
 
 * Building single-page data-driven client framework for Customer Experience Platform ( CXP ) “Dialogica” ( using knockout.js )
 
@@ -105,12 +109,11 @@ Because of use of some legacy systems which could not run on various platforms l
 
 __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.js, jenkins
 
-
 #### 2008 february - 2010 october: , Senior JavaScript developer, Mendix BV, Rotterdam
 
 ( http://www.mendix.com/ )
 
-After I have finished my final assesement I stayed working at Mendix and become main developer of the Mendix Client Framework.
+After I have finished my final University assessment I stayed working at Mendix and become a lead developer of the Mendix Client Framework.
 
 __Department__ 	: R&D
 
@@ -118,7 +121,7 @@ __Achievements__ :
 
 * JavaScript performance analysis, IE6 ( using memory profiler )
 
-Created by the Mendix Platform apps became bigger and bigger. Logic inside it became more complex and screens became more full. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool : JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave a very low-level footprint of the browser's memory. Got really a lot of profiling experience and a lot of knowledge of the JavaScript internals, like how objects are created in memory, how they constructed and destroyed, how garbage collector actually works and another kind of js-engine aspects.
+Created by the Mendix Platform apps became bigger and bigger. Logic inside it became more complex and screens became more full. All this makes generated apps runs slower. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool : JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave a very low-level footprint of the browser's memory. Got really a lot of profiling experience and a lot of knowledge of the JavaScript internals, like how objects are created in memory, how they constructed and destroyed, how garbage collector actually works and another kind of js-engine aspects.
 
 * Improving and stabilizing the previous version of the Mendix Client Framework
 
@@ -170,7 +173,7 @@ One of my projects in that period of time was to implement Webservice layer insi
 
 * Implemented "Planner" UI-module ( in JavaScript )
 	
-This was custom widget to have minimal ui for Gantt chart like planngins. A lot of Drag and Drop ( dnd ) logic was invloved and at that time it also had to perform on IE6, so that was a bit challange. The knowldge of the dnd and performance tricks of dnd I also reused in another project "Web-Portal" 
+This was a custom widget to have minimal ui for Gantt chart like plannings. A lot of Drag and Drop ( dnd ) logic was invloved and at that time it also had to perform on IE6, so that was a bit challange. The knowldge of the dnd and performance tricks of dnd I also reused in another project "Web-Portal" 
 
 * Creating Planning module for Mendix Business Modeler ( in C# )
 
@@ -178,7 +181,7 @@ In order to use planner module in the client, it also had to be implemented insi
 
 * Implementing portal ( in JavaScript )
 
-iGoogle at that time was something very sweet to look at, all this configurable portlets with different information, customizable for every user. It was something what was attractive for a lot of people and Mendix decided to include such possibility inside their platform. Mostly I was creating set of custom widgets and creating infrastructure for configurable 'portlets'. Again, dnd was, on-fly save of configuration and other effects were the challenging parts
+iGoogle at that time was something very sweet to look at, all this configurable portlets with different information, customizable for every user. It was something what was attractive for a lot of people and Mendix decided to include such possibility inside their platform. Mostly I was creating set of custom widgets and creating infrastructure for configurable 'portlets'. Again, dnd was there, on-fly save of configuration and other effects were the challenging parts.
 
 
 __Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DND
