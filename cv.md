@@ -75,7 +75,7 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 ( http://www.informaat-cxp.com/ )
 
-After five years of work at Mendix company I moved on further. To the new challenges, new possibilities and new fresh start. I have started working at Informaat. Company focusing very deeply on User Experience ( UX ). Mainly focusing on digital User Experience. This was the moment, when Informaat started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) with the tool "Deltalogica". It's was a starting point for them, so a lot had to be done, researched and tried out. This is where I started work closly with node.js, mongo, Angular, grunt and other new technologies.
+After five years of work at Mendix company I moved on further. To the new challenges, new possibilities and new fresh start. I have started working at Informaat. Company focusing very deeply on User Experience ( UX ). Mainly focusing on digital UX. This was the moment, when Informaat started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) with the tool "Dialogica". It's was a starting point for them, so a lot had to be done, researched and tried out. This is where I started work closely with node.js, mongoDB, AngularJS, grunt and other technologies.
 
 ( <http://www.informaat-cxp.com/> )
 	
@@ -83,13 +83,23 @@ __Department__ 	: R&D
 
 __Achievements__ :	 
 	
-* Architecturing and implementing schema based persistence layer ( using node.js, mongo and websockets. )
+* Architecturing and implementing schema based persistence layer ( using node.js, mongoDB and websockets. )
 
-One of my primary ideas was that product in start-up company is exposed to rapid changes. To be able to deal with this changes our architecture should allow that. Make fast changing parts as flexible as they can be and fasten things which are known. Domain Model of the start-up application is something what changes constantly. For that reason I have implemented schema based persistence layer. It allows us to change Domain Model quickly without touching any bit on the back-end and having changed model immediately available within the client. Another important point is that data changes are real-time, which means that changing data on one computer will be broadcasted to all of them.
+One of my primary ideas was that product in start-up company is exposed to rapid changes. To be able to deal with this changes our architecture should allow that. Changing parts should be as flexible as possible and things which are known should be deeply thought and have mature foundation. 
+
+Domain Model of the start-up application is something what changes constantly. For that reason I have implemented schema based persistence layer. It allows us to change Domain Model quickly without touching any bit of the back-end and having changed model immediately available within the client. 
+
+The main differences of this system from other schema-based persistence layers is that it is totally relational at the backend, but Document Based on the front-end. A very powerfull hybrid form which allows json manipulation on the front-end with the relational integrity checking at the back-end.
+
+Another important point is that data changes are real-time, which means that changing data on one client will be broadcasted to all of them.
 
 * Building single-page data-driven client framework ( using knockout.js )
 
+Our platform delivers a lot of different artifacts and one of this artifacts is the working touchpoint bundle. This bundle is completely isolated HTML5 app which can run as a single-page website or embedded into another portal/web-site, depending on customer demand.
 
+Client engine underneath this touchpoint bundle is responsible for rendering the page, knowing what to do when user clicks button and data-flow manipulation of this whole thing. You can think of it as an Angular framework underneath an angular app. Only this engine is fully adopted to the Informaat CXP concepts and rules.
+
+My responsibility was to setup the initial architecture of it and ...
 
 * Establishing “Continuous Deployment” process ( using jenkins and bash-scripting )
 
