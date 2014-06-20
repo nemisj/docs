@@ -71,7 +71,7 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 ## Work experience
 
-#### 2010 november - till now , Developers architect,  Informaat IPE BV,  Baarn 
+#### 2010 november - till now , Developers architect,  Informaat CXP,  Baarn 
 
 ( http://www.informaat-cxp.com/ )
 
