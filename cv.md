@@ -107,7 +107,7 @@ Another aspect of software development is the continious testing and one click d
 
 * Setting up UI testing framework ( using Selenium webdriver )
 
-Because we have to support different browsers we had also to setup testing framework which could test code in different browsers. Because it was before Karma, Protractor and SourceLabs where available on the market, we've developed our own layer to test code usiing Selenium webdriver.
+Because we have to support different browsers we had also to setup testing framework which could test code in different browsers. Because it was before Karma, Protractor and SourceLabs where available on the market, we've developed our own layer to test code usiing Selenium webdriver. For now, it's all rewritten to the standard technologies, to make the legacy system as small as possible.
 
 * Building selfcontained "Development environment” ( using vagrant, bash-scripting and python )
 
