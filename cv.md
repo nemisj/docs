@@ -29,35 +29,43 @@
 
 ## EDUCATION
 
-### 2004 - 2008 : __The Hague The University of Applied Sciences__
+### 2004 - 2008 : __The Hague University of Applied Sciences__
 
 ( <http://www.thehagueuniversity.com> )
 
 Bachelor of Computer Science, (2008).
 
-Major: “Information and Communucation technoloty”. 
-Minor: "Technical Computer Science".
+Major: “Information and Communucation technology”
+Minor: "Technical Computer Science"
 	
-At major education I was learning UML, RUP, ITIL, Java, SQL and Data warehousing ( using Oracle tools ). Also the part of the course was working with .NET platform, mostly ASP .NET and C# .NET 
+At major education I was learning UML, RUP, ITIL, Java and its object orientation, SQL and Data warehousing ( using Oracle tools ). Also the part of the course was working with .NET platform, mostly ASP .NET and C# .NET.
 
-Technical Computer Science gave C/C++, Assembly, Embedded systems and robotica, TCP/IP stack and all other cool low level stuff.
+Technical Computer Science gave C/C++, Assembly, Embedded systems and robotica, TCP/IP stack and all other cool low level aspects.
+
+This combination of both worlds ( high-level Java and OO, and low level C/C++ and networks ) helps me to review problems from different perspectives and solve them on correct levels
 	
 
-#### 2003 - 2004 : __InHolland The University of Applied Sciences__
+#### 2003 - 2004 : __The InHolland University of Applied Sciences__
 
 ( <http://www.inholland.nl/inhollandcom/> )
 
 Major:"Business Informatics".
 	
-Have not finished it, since moved over to "The Hague The University of Applied Sciences". Education was focused mainly on Business processes and almost nothing on technical. Since I preffer to dive deep into the technologies and software, I was not suited for this education.
+This education was focused mainly on Business processes and almost nothing on technical. Since I preffer to dive deep into the technologies and software, I was not suited for this education. As a result of that I have not finished this study and moved over to "The Hague University of Applied Sciences".
 
 ##### 1990 - 2000 : Highschool in Ukraine
+
+Just the usual Highschool in the usual city with the usual subjects.
 
 
 ## Courses
 
 * 2011
-: Profilering en Zelfmanagement voor ICT-ers ( bij Schouten & Nelissen )
+: Profilering en Zelfmanagement voor ICT-ers ( at Schouten & Nelissen )
+
+( <http://www.sn.nl/> )
+
+"In this course they teach how to communicate better, how to deal with critics and how to define more conrcete aims while beening an IT person."
 
 * 2007
 : MCP - “Analyzing Requirements 
@@ -71,11 +79,13 @@ Have not finished it, since moved over to "The Hague The University of Applied S
 
 ## Work experience
 
-#### 2010 november - till now , Developers architect,  Informaat CXP,  Baarn 
+#### 2010 november - till now: Developers architect,  Informaat CXP,  Baarn 
 
 ( http://www.informaat-cxp.com/ )
 
-After five years of work at Mendix company I've moved further. To the new challenges, new possibilities and new fresh start. I have started working at Informaat. Company focusing very deeply on User Experience ( UX ), whereby last couple of years the main accent was on digital world. This was the moment, when Informaat started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) with the tool in it - "Dialogica". It's was a starting point for copany in R&D branch. A lot had to happend, researched and tried out. This is where I started to work closely with node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
+After five years of work at Mendix company ( see below ) I've moved further to the new challenges, new possibilities and new fresh start. I moved to Informaat CXP, company focusing very deeply on a User Experience ( UX ), whereby last couple of years the main accent is on digital world.
+
+At that time Informaat CXP started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) and it's own tool "Dialogica". It's was a starting point for this copany in R&D branch. A lot had to happend, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
 
 ( <http://www.informaat-cxp.com/> )
 	
@@ -83,47 +93,48 @@ __Department__ 	: R&D
 
 __Achievements__ :	 
 	
-* Architecturing and implementing schema based persistence layer ( using node.js, mongoDB and websockets. )
+* Architecturing and implementing schema based persistence layer ( using Node.js, MongoDB and websockets. )
 
-One of my primary ideas was that product in start-up company is exposed to rapid changes. To be able to deal with this changes our architecture should allow that. Changing parts should be as flexible as possible and things which are known should be deeply thought and have mature foundation. 
+One of my primary ideas was that product in start-up company is exposed to rapid changes. In order to be able to deal with fast changes our architecture should be scaliable enough to allow changes happen fast and seamless, meaning that changing parts should be as flexible as possible and things which are known beforehead should be deeply thought and have mature foundation. 
 
-Domain Model of the start-up application is something what changes constantly. For that reason I have implemented schema based persistence layer. It allows us to change Domain Model quickly without touching any bit of the back-end and having changed model immediately available within the client. 
+Domain Model of the start-up application is something what changes constantly. For that reason I have implemented schema based persistence layer, which allows us to change our Domain Model quickly without touching any bit of the back-end landscape. Not only does it seamless for back-end machinery, but also changes where instanly available in the front-end.
+
 
 The main differences of this system from other schema-based persistence layers is that it is totally relational at the backend, but Document Based on the front-end. A very powerfull hybrid form which allows json manipulation on the front-end with the relational integrity checking at the back-end.
 
-Another important point is that data changes are real-time, which means that changing data on one client will be broadcasted to all of them.
+Another important aspect is that the data changes are real-time, and changing a data inside browser of one client, will be broadcasted to all of the connected clients.
 
 * Building single-page data-driven client framework ( using knockout.js )
 
-Our platform delivers a lot of different artifacts and one of this artifacts is the touchpoint bundle. This bundle is a completely standalone HTML5 app which can run as a single-page website or embedded into another portal/web-site, depending on customer demands.
+Our platform delivers a lot of different artifacts and one of this artifacts is the touchpoint bundle. This bundle is a completely standalone HTML5 app which can run as a single-page website or embedded into another portal/web-site.
 
-Client engine underneath this app is responsible for rendering the page fragments, passing data from one view to another, knowing what to do when user clicks button, session management, history manegement and other aspects. You can think of it as an Angular framework underneath an angular app. Only this engine is fully adopted to the Informaat CXP concepts and rules and uses application configuration ( generated by the dialogica ) to drive the whole app.
+Client engine underneath this app is responsible for rendering the page fragments, passing data from one view to another. Session management, history management and other facilities of the stand-alone webpage are intergated into the engine. You can think of it as an Angular framework. Only this engine is fully adopted to the Informaat CXP concepts and rules and uses application configuration ( generated by the dialogica ) to drive the whole front-end app.
 
-My responsibility was to setup the initial architecture of it and to implement it. Reactive programming paradigm was achieved by using knockout.js library.
+My responsibility was to setup and implement the initial architecture of it.
 
 * Establishing “Continuous Testing” process ( using jenkins and bash-scripting )
 
-Another aspect of software development is the continious testing and one click deployment. Setting up jenknis jobs and pre-commit hooks in order to guarantee one click deployment mechanism was one of my responsibilites. In this way every commit which developer made started testing process. Also releasing the software was possible in one click.
+Another aspect of software development is the continious testing and one click deployment. Setting up jenknis jobs and pre-commit hooks in order to guarantee one click deployment mechanism was one of my responsibilites. In this way every commit which developer made started testing process on a remote CI environment. Also releasing our software to acceptance was one click move.
 
 * Setting up UI testing framework ( using Selenium webdriver )
 
-Because we have to support different browsers we had also to setup testing framework which could test code in different browsers. Because it was before Karma, Protractor and SourceLabs where available on the market, we've developed our own layer to test code usiing Selenium webdriver. For now, it's all rewritten to the standard technologies, to make the legacy system as small as possible.
+Because we have to support different browsers there was a need in setting up testing framework. There were no Karma, Protractor and SauceLabs  available on the market, so we've developed our own layer to test our code usiing Selenium webdriver. Nowdays, it's all rewritten to the standard technologies, to keep the nonstandard legacy code as small as possible, but it was a tough experience.
 
 * Building selfcontained "Development environment” ( using vagrant, bash-scripting and python )
 
-Because of the use of some legacy systems which could not run on various platforms like OSX, I have introduced and implemented vagrant virtual machine with all the skeleton code and helpful tools for fast bootstrap of development process.
+Because of the use of some legacy systems which could not run on various platforms like OSX, I have introduced  virtual machines with all the skeleton code and helpful tools for fast bootstrap of development process. Our VMS were build on top of the vagrant tooling.
 
 * Coaching developers for "JavaScript best practices"
 
-Aside of coding I was spending some time to coach our developers for JavaScript best practes.
+Aside of coding I was also spending some time coaching our developers for JavaScript best practes.
 
 * A lot more
 
-In the time that I worked and working at Informaat I've been busy on a different fields of software development, so there is even more, from small to bigger things, which I haven't covered on my CV.
+In the time that I worked and working at Informaat CXP I've been busy on a different fields of software development, so there is even more, from small to bigger things, which I haven't covered in my CV.
 
 __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.js, jenkins, vagrant, regular-expressions, mocha, socket.io
 
-#### 2008 february - 2010 october: , Senior JavaScript developer, Mendix BV, Rotterdam
+#### 2008 february - 2010 october: Senior JavaScript developer, Mendix BV, Rotterdam
 
 ( http://www.mendix.com/ )
 
