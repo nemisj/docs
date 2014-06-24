@@ -124,10 +124,6 @@ Because we have to support different browsers there was a need in setting up tes
 
 Because of the use of some legacy systems which could not run on various platforms like OSX, I have introduced  virtual machines with all the skeleton code and helpful tools for fast bootstrap of development process. Our VMS were build on top of the vagrant tooling.
 
-* Coaching developers for "JavaScript best practices"
-
-Aside of coding I was also spending some time coaching our developers for JavaScript best practes.
-
 * A lot more
 
 In the time that I worked and working at Informaat CXP I've been busy on a different fields of software development, so there is even more, from small to bigger things, which I haven't covered in my CV.
@@ -138,7 +134,7 @@ __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.
 
 ( http://www.mendix.com/ )
 
-After I have finished my final University assessment I stayed working at Mendix and become a lead developer of the Mendix Client Framework.
+After I've finished my final university assessment, I've stayed working at Mendix at the position "Lead developer of the Mendix Client Framework". This was the moment when focus was on a stabilization of the Mendix Platform.
 
 __Department__ 	: R&D
 
@@ -146,7 +142,9 @@ __Achievements__ :
 
 * JavaScript performance analysis, IE6 ( using memory profiler )
 
-Created by the Mendix Platform apps became bigger and bigger. Logic inside it became more complex and screens became more full. All this makes generated apps runs slower. Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis and memory leaks and fix that. At that time there was a tool : JavaScript Memory Validator ( http://www.softwareverify.com/ ) which gave a very low-level footprint of the browser's memory. Got really a lot of profiling experience and a lot of knowledge of the JavaScript internals, like how objects are created in memory, how they constructed and destroyed, how garbage collector actually works and another kind of js-engine aspects.
+Most apps which were ceated by the Mendix Platform grew into complex applications - screens became more full of complex data and a lot of conditinal rendering was applied in them. It were not simple forms anymore but complex nested multi-tab interfaces. All this made generated apps runs slower not only in old browsers, like IE but also in newer ones. 
+
+Since our requirement was to support Internet Explorer 6, I had to dive deep into the memory analysis in order to optimize rendering of the apps. At that time there was a tool called "JavaScript Memory Validator ( http://www.softwareverify.com/ )", which gave a very low-level footprint of the browser's memory. Using this information helped me really a lot of in getting better understanding of the internals of the JavaScript engine e.g., how objects are created in the browsers memory, the way garbage collector actually works, where memory leaks can reside and other js-engine's aspects. After couple of weeks of profiling I achieved user accaptable rendering of the applications.
 
 * Improving and stabilizing the previous version of the Mendix Client Framework
 
@@ -154,15 +152,15 @@ Besides memory leaks and fast rendering of the application inside Internet Explo
 
 * Creating architecture and implementing next version of the Mendix Client Framework ( v. 2.5 )
 
-Improvement and stabilization was the fundamental part for the next version. In this version ( 2.5 ) I was the leading architect. A lot of new features where added, but also a lot of work was done for future plans. Most of the stuff was even not visible yet, but gave a basic for the functionality which came in further releases. To build a high quality product, it's important to design and implement every layer, step by step, changing things today which will be needed "after tomorrow".
+Improvement and stabilization was the fundamental part of the next version. In this version ( 2.5 ) I took responsibility to become lead developer. A lot of new features had be added, but also a lot of work had to be done for future plans. Most of the stuff was even not visible to the user yet, but gave a fundament for the functionality which came in further releases. To build a high quality product, it's important to design and implement every layer, step by step, changing parts "today", which will be needed only "tomorrow".
 
 * Teaching and supervising junior JavaScript developer
 
-Not only programming was part of my daily tasks, but also supervising a new junior JavaScript developer. Teaching him all the corners of our architecture and giving him different assessments. Telling things to others makes things more clear to myself, so it was a very useful period of my work at Mendix. Job makes people closer and we became not only good colleges, but also a good friends after that.
+Not only programming was part of my daily tasks, but also supervising a new junior JavaScript developer. Teaching him all the corners of our architecture and giving him different assessments. Explaining all the details to him made things more clear to me, so it was a very useful period of my work at Mendix. Collaboration in work makes people closer and we became not only good colleges, but also a good friends after all.
 
 * Supervising student for his graduate project
 
-At the time of working at Mendix I also had possibility to supervise one student on his final assessment.
+Besides suprevising a junior JavaScript developer I also was supervise one student on his final University assessment.
 
 __Keywords__: IE6 performance, memory analysis,  supervising junior, architecture 
 
@@ -170,7 +168,7 @@ __Keywords__: IE6 performance, memory analysis,  supervising junior, architectur
 
 ( http://www.mendix.com/ )
 
-At my last year of the education at The Hague The University of Applied Sciences, I had to do the final assesment and write process-report of it. My subject at that time was "Server-push technoogy".
+At my last year of the education at The Hague University of Applied Sciences, I had to do the final assesment and write process-report of it. My subject of the assesment was "Server-push technoogy and it's realization inside HTML web apps".
 
 __Department__ 	: R&D
 
@@ -178,15 +176,15 @@ __Achievements__ :
 
 * Designing and implementing server-push technology in the Mendix Application Server and Mendix Client Framework
 
-At this time I had to implement server-push technology on the backend but also on the fron-end, so end-2-end solution. There were a couple of different approaches at that time, but I stoped at Bayeux protocol defined by dojotoolkit, the main challange was to add support of it at the backend and connect both worlds together.
+When doing my univercity assesment I was responsible for full end-to-end solution, meaning I had to implement server-push functinality on the backend and also on the fron-end. There were a couple of different approaches to achive that. I've choosen a Bayeux protocol. It was defined by dojotoolkit group and was ongoing project of them, which later resulted in CometD ( http://cometd.org/ ). Even though the protocol was defined and some support was already build into dojo toolkit, the main challange was to add support of it at the Mendix backend and connect both worlds together.
 
 __Keywords__: Comet, Bayeux, Jetty Continuation
 
-#### 2006 may - 2007 february : Dual student, Mendix, Rotterdam
+#### 2006 may - 2007 february: Dual student, Mendix, Rotterdam
 
-After I finished my internship by Mendix I have decided to stay there. Because I was still studen I had to switch to the "Dual education" so that I could combine work and study together.
+After I've finished my internship I've decided to stay at Mendix. Because I still was a student, I had to switch to the "Dual education" so that I could combine my work and study together.
 
-When working there as a dual student, I had to perform different tasks, not only related to the javascript and dojo, but also to the C# and Java.
+When working there as a dual student, I had to perform different tasks, not only related to the JavaScript and dojo. I busy at C# and Java fields aswell.
 
 __Department__ 	: R&D
 
