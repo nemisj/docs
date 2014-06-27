@@ -168,7 +168,7 @@ __Keywords__: IE6 performance, memory analysis,  supervising junior, architectur
 
 ( http://www.mendix.com/ )
 
-At my last year of the education at The Hague University of Applied Sciences, I had to do the final assesment and write process-report of it. My subject of the assesment was "Server-push technoogy and it's realization inside HTML web apps".
+At my last year of the education at The Hague University of Applied Sciences, I had to do the final assesment. My subject of the assesment was "Server-push technoogy and it's implementation inside HTML web apps". I had to investigate in all the possible solutions at that time, find a suited one for Mendix platform and implement it on the server and in the client. There were two deliverablse of this assesment. Working system for the Mendix and process-report for the University.
 
 __Department__ 	: R&D
 
@@ -176,44 +176,44 @@ __Achievements__ :
 
 * Designing and implementing server-push technology in the Mendix Application Server and Mendix Client Framework
 
-When doing my univercity assesment I was responsible for full end-to-end solution, meaning I had to implement server-push functinality on the backend and also on the fron-end. There were a couple of different approaches to achive that. I've choosen a Bayeux protocol. It was defined by dojotoolkit group and was ongoing project of them, which later resulted in CometD ( http://cometd.org/ ). Even though the protocol was defined and some support was already build into dojo toolkit, the main challange was to add support of it at the Mendix backend and connect both worlds together.
+While investigating in different server-push technologies I've choosen a Bayeux protocol. It was defined by dojotoolkit group and was ongoing project of them, which later resulted in CometD ( http://cometd.org/ ). Even though the protocol was defined and some support was already build into dojotoolkit, the main challange was to add support of it into at the Mendix backend and connect client and server together. It was an interesting project, whereby I ( not only me, but the whole dojo community ) was trying to solve the limitations of the HTTP protocol in non standard way. My achievement of this project is the 8.5 grade which I recieved for my final report. 
 
 __Keywords__: Comet, Bayeux, Jetty Continuation
 
 #### 2006 may - 2007 february: Dual student, Mendix, Rotterdam
 
-After I've finished my internship I've decided to stay at Mendix. Because I still was a student, I had to switch to the "Dual education" so that I could combine my work and study together.
+After I've finished my internship I've decided to stay at Mendix. Despite I was was a student, I've switched to the "Dual education" so that I could combine work and my study together.
 
-When working there as a dual student, I had to perform different tasks, not only related to the JavaScript and dojo. I busy at C# and Java fields aswell.
+When working there as a dual student, I had to perform different tasks, not only related to the JavaScript and dojo, but also to C# and Java.
 
 __Department__ 	: R&D
 
 __Achievements__ :
 
-* Implmeneted Webservices module for backend system in Java ( using Apache Axis ) and implemented extra layer to handle DIME attachements.
-	
-One of my projects in that period of time was to implement Webservice layer inside Mendix Application Server, so that it could connect to the webservices. The one unusual aspect of that project was, that this module had to support also DIME attachements.
+* Implmeneted Webservices module for backend system in Java ( using Apache Axis ) and implemented extra layer to handle DIME attachements
+
+My task was to implement webservice support inside Mendix Application Server, so that it could connect to the webservices and interchange data between them. The one unusual aspect of that project was, the fact that this module had to support also DIME attachements, which were not included in the Apache Axis library at that time. Armed with DIME specs I've devide into the XML, WDSL, SOAP and other aspects of webservices.
 
 * Implemented "Planner" UI-module ( in JavaScript )
-	
-This was a custom widget to have minimal ui for Gantt chart like plannings. A lot of Drag and Drop ( dnd ) logic was invloved and at that time it also had to perform on IE6, so that was a bit challange. The knowldge of the dnd and performance tricks of dnd I also reused in another project "Web-Portal" 
+
+One of the requirements for one of our customer was to have support for planning widget, similair to Gantt charts. A lot of Drag and Drop ( dnd ) logic was invloved in there. And ofcourse because we had to support IE6, it was challanging to get it perform well in this browser. This project gave me a good starting point to start collecting knowldge in how to write efficient DragNDrop code.
 
 * Creating Planning module for Mendix Business Modeler ( in C# )
 
-In order to use planner module in the client, it also had to be implemented inside Modeler tooling, so that it could be included in the builded app. All work was done inside Mendix Business Modeler using .Net C# and GDI+.
+In order to use planner widget inside the client, it also had to be implemented inside the Mendix Busnisse Modeler. All work was done using .Net C# and GDI+.
 
 * Implementing portal ( in JavaScript )
 
-iGoogle at that time was something very sweet to look at, all this configurable portlets with different information, customizable for every user. It was something what was attractive for a lot of people and Mendix decided to include such possibility inside their platform. Mostly I was creating set of custom widgets and creating infrastructure for configurable 'portlets'. Again, dnd was there, on-fly save of configuration and other effects were the challenging parts.
+iGoogle at that time was something very sweet to look at: all these configurable portlets with different information, customizable for every user, a lot of drad-n-drop, animation, etc. It was something what was attractive for a lot of people and Mendix decided to include such possibility inside their platform. My task was to create a set of custom widgets and create infrastructure for configurable 'portlets'.
 
 
-__Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DND
+__Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DnD
 
 #### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
 
 Started working at Mendix <http://mendix.com> as student ( Intern/Internship ).
 
-This was the beginning of the Mendix history and my proffesional career. Their idea is very simple, to build, run and deploy app using Mendidx Platform. Mendix Platform includes Business Modeler, which is used to build an app ( using form builder ) and deploy it to the Mendix Application Server. Mendix Client Framework, single-page client framework which runs deployed app in the browser.
+This was the beginning of the Mendix history and my proffesional career. Their idea was and is still very simple: "Build, run and deploy app using Mendidx Platform". Mendix Platform includes Business Modeler, which is used to build an app ( using form builder ) and deploy it to the Mendix Application Server. Deployed apps could run in a browser as single-page applications using Mendix Client Framework. The main difference between Mendix and others was that Mendix generated only configuration and no code, which they later called Model Driven Development.
 
 __Department__ 	: R&D
 
@@ -221,11 +221,11 @@ __Achievements__ :
 
 * Creating widgets for web-based client framework ( using dojotoolkit )
 
-At that time Mendix Client Framework was based on the dojotoolkit ( http://dojotoolkit.org/), and even though dojo had at that time already some stack of ui widgets, there was a lack for custom widgets which Mendix was planning to use. So my role as a student at this startup company was to code different custom widgets and other ui components.
+At that time Mendix Client Framework was based on the dojotoolkit ( http://dojotoolkit.org/), and even though dojo had already stack of satndard ui widgets at that time, there was a lack for custom widgets which Mendix was planning to use. So my role as a student at this startup company was to write code for different custom widgets.
 
 * Thesis: Composition versus Inheritance in Java
 
-As an intern student I also had to write a thesis. My subject was "Composition versus Inheritance in Java". The main idea of it was to see what does bring compision in place of inheritance. Does it solve problem of deep hyerarhical erlations.  Also I looked not only at the maintances problem of the inheritance but at the memory consumption when composition used and inheritance.
+As an intern student I also had to write a thesis. My subject was "Composition versus Inheritance in Java". The main idea of it was to see what does bring compision in place of inheritance. Does it solve a problem of deep hyerarhical relations. And what are the tradeoffs using composition instead of inheritance. Questions like maintances problem of the inheritance and the memory consumption where also covered in there.
 
 __Keywords__: Native javascript, dojotoolkit
  
