@@ -184,6 +184,8 @@ __Keywords__: Comet, Bayeux, Jetty Continuation
 
 #### 2006 may - 2007 february: Dual student, Mendix, Rotterdam
 
+( http://www.mendix.com/ )  
+
 After I've finished my internship I've decided to stay at Mendix. Despite I was was a student, I've switched to the "Dual education" so that I could combine work and my study together.
 
 When working there as a dual student, I had to perform different tasks, not only related to the JavaScript and dojo, but also to C# and Java.
@@ -213,9 +215,11 @@ __Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DnD
 
 #### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
 
-Started working at Mendix <http://mendix.com> as student ( Intern/Internship ).
+( http://www.mendix.com/ )
 
-This was the beginning of the Mendix history and my proffesional career. Their idea was and is still very simple: "Build, run and deploy app using Mendidx Platform". Mendix Platform includes Business Modeler, which is used to build an app ( using form builder ) and deploy it to the Mendix Application Server. Deployed apps could run in a browser as single-page applications using Mendix Client Framework. The main difference between Mendix and others was that Mendix generated only configuration and no code, which they later called Model Driven Development.
+Started working at Mendix as student ( Intern/Internship ) as Junior JavaScript developer. This was the beginning of the Mendix history and my proffesional career. Their idea was and is still is very simple: "Build, run and deploy app using Mendidx Platform". Mendix Platform includes Business Modeler, which is used to build an app ( using form-builder ) and deploy it to the Mendix Application Server. Deployed apps run in a browser as single-page applications using Mendix Client Framework. The main difference between Mendix and others was that Mendix generated only configuration of the app totally and no code, which they later called Model Driven Development.
+
+My knowledge base of JavaScript was almost equal to nothing
 
 __Department__ 	: R&D
 
