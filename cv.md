@@ -90,7 +90,6 @@ After five years of work at Mendix company ( see below ) I've moved further to t
 
 At that time Informaat CXP started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) and it's own tool "Dialogica". It's was a starting point for this copany in R&D branch. A lot had to happend, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
 
-( <http://www.informaat-cxp.com/> )
 	
 __Department__ 	: R&D
 
