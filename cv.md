@@ -36,13 +36,16 @@
 Bachelor of Computer Science, (2008).
 
 Major: “Information and Communucation technology”
+
 Minor: "Technical Computer Science"
-	
-At major education I was learning UML, RUP, ITIL, Java and its object orientation, SQL and Data warehousing ( using Oracle tools ). Also the part of the course was working with .NET platform, mostly ASP .NET and C# .NET.
 
-Technical Computer Science gave C/C++, Assembly, Embedded systems and robotica, TCP/IP stack and all other cool low level aspects.
+At the university I got two directions of the education. Major and minor. Both were centered around Computer Science, though each got its own level of responsibility.
 
-This combination of both worlds ( high-level Java and OO, and low level C/C++ and networks ) helps me to review problems from different perspectives and solve them on correct levels
+Major education was concentrated on high level software development. I was learning modeling languages, like UML, different software methodologies, like RUP or XP, testing principles, like ITIL or PRINCE2, object oriented programming using Java and databases and data warehousing using Oracle tools and SQL. Also there was a part of the course to work with .NET platforms, mostly ASP .NET and C# .NET.
+
+Minor education "Technical Computer Science" gave me C/C++ and assembly languages, embedded systems and how to write embedded software and robotica, TCP/IP stack and all other cool low level aspects.
+
+This cooperation of high-level Java, OO together with design patterns and software develpoment methodolgies combined with low level C/C++ and networks helps me to review problems from different perspectives and solve them on correct levels.
 	
 
 #### 2003 - 2004 : __The InHolland University of Applied Sciences__
@@ -51,7 +54,7 @@ This combination of both worlds ( high-level Java and OO, and low level C/C++ an
 
 Major:"Business Informatics".
 	
-This education was focused mainly on Business processes and almost nothing on technical. Since I preffer to dive deep into the technologies and software, I was not suited for this education. As a result of that I have not finished this study and moved over to "The Hague University of Applied Sciences".
+This education was focused mainly on Business processes and there was almost nothing technical. Since I preffer to dive deep into the technologies and software, this education was a bad match for me. As a result of that I haven't finished this study and moved to "The Hague University of Applied Sciences" to do the real software developmnt.
 
 ##### 1990 - 2000 : Highschool in Ukraine
 
