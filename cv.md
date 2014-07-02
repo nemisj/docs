@@ -88,7 +88,7 @@ Just the usual Highschool in the usual city with the usual subjects.
 
 After five years of work at Mendix company ( see below ) I've moved further to the new challenges, new possibilities and new fresh start. I moved to Informaat CXP, company focusing very deeply on a User Experience ( UX ), whereby last couple of years the main accent is on digital world.
 
-At that time Informaat CXP started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) and it's own tool "Dialogica". It's was a starting point for this copany in R&D branch. A lot had to happend, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
+At that time Informaat CXP started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) and own tool "Dialogica". It's was a starting point for this company in R&D branch. A lot had to happen, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
 
 	
 __Department__ 	: R&D
