@@ -48,7 +48,7 @@ Minor education "Technical Computer Science" gave me C/C++ and assembly language
 This cooperation of high-level Java, OO together with design patterns and software develpoment methodolgies combined with low level C/C++ and networks helps me to review problems from different perspectives and solve them on correct levels.
 	
 
-#### 2003 - 2004 : __The InHolland University of Applied Sciences__
+### 2003 - 2004 : __The InHolland University of Applied Sciences__
 
 ( <http://www.inholland.nl/inhollandcom/> )
 
@@ -56,7 +56,7 @@ Major:"Business Informatics".
 	
 This education was focused mainly on Business processes and there was almost nothing technical. Since I preffer to dive deep into the technologies and software, this education was a bad match for me. As a result of that I haven't finished this study and moved to "The Hague University of Applied Sciences" to do the real software developmnt.
 
-##### 1990 - 2000 : Highschool in Ukraine
+### 1990 - 2000 : Highschool in Ukraine
 
 Just the usual Highschool in the usual city with the usual subjects.
 
