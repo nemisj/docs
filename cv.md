@@ -86,9 +86,9 @@ Just the usual Highschool in the usual city with the usual subjects.
 
 ( http://www.informaat-cxp.com/ )
 
-After five years of work at Mendix company ( see below ) I've moved further to the new challenges, new possibilities and new fresh start. I moved to Informaat CXP, company focusing very deeply on a User Experience ( UX ), whereby last couple of years the main accent is on digital world.
+After five years of working at Mendix ( see below ) I've moved on to the new challenges, possibilities and a fresh start. I moved to Informaat CXP, a company with a deep focus on User Experience ( UX ).
 
-At that time Informaat CXP started to develop their own 'home-made' platform called Customer Experience Platform ( CXP ) and own tool "Dialogica". It's was a starting point for this company in R&D branch. A lot had to happen, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
+Around this time, Informaat CXP started to develop its own platform called Customer Experience Platform ( CXP ) and tooling (Dialogica). It's was a starting point for this company in to the R&D branch. A lot had to happen, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
 
 	
 __Department__ 	: R&D
@@ -97,9 +97,9 @@ __Achievements__ :
 	
 * Architecturing and implementing schema based persistence layer ( using Node.js, MongoDB and websockets. )
 
-One of my primary ideas was that product in start-up company is exposed to rapid changes. In order to be able to deal with fast changes our architecture should be scaliable enough to allow changes happen fast and seamless, meaning that changing parts should be as flexible as possible and things which are known beforehead should be deeply thought and have mature foundation. 
+One of my primary ideas was that a product in a start-up company is exposed to rapid changes. In order to be able to deal with fast changes, our architecture should be scaleable enough to allow changes to happen fast and seamlessly. This meant that changing parts should be as flexible as possible and things which are more static and stable should have a robust architecture and mature foundation.
 
-Domain Model of the start-up application is something what changes constantly. For that reason I have implemented schema based persistence layer, which allows us to change our Domain Model quickly without touching any bit of the back-end landscape. Not only does it seamless for back-end machinery, but also changes where instanly available in the front-end.
+The Domain Model of the start-up application is something that changes constantly. For that reason I have implemented schema based persistence layer, which allows us to make changes to our Domain Model quickly without any further modifications to the back-end landscape. This is a seamless process that works not only for our back-end machinery, but also changes are instantly available in the front-end.
 
 
 The main differences of this system from other schema-based persistence layers is that it is totally relational at the backend, but Document Based on the front-end. A very powerfull hybrid form which allows json manipulation on the front-end with the relational integrity checking at the back-end.
