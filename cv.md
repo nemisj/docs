@@ -86,12 +86,13 @@ Just the usual High-school in the usual city with the usual subjects.
 
 ( http://www.informaat.com/ )
 
+```Informaat is a design and consultancy agency for digital services, who supports organizations in the development and implementation of their digital strategy.```
+	
+__Department__ 	: R&D
+
 After five years of working at Mendix ( see below ) I've moved on to the new challenges, possibilities and a fresh start. I moved to Informaat, a company with a deep focus on User Experience ( UX ).
 
 Around this time, Informaat started to develop its own platform called Customer Experience Platform ( CXP ) and tooling (Dialogica). It's was a starting point for this company into the R&D branch. A lot had to happen, researched and tried out to bring the platform in production state. This was the moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
-
-	
-__Department__ 	: R&D
 
 __Achievements__ :	 
 	
@@ -135,9 +136,11 @@ __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.
 
 ( http://www.mendix.com/ )
 
-After I've finished my final university assessment, I've stayed working at Mendix at the position "Lead developer of the Mendix Client Framework". This was the moment when focus was on a stabilization of the Mendix Platform.
+```"Mendix is the app platform company for the enterprise. The Mendix App Platform enables companies to build, integrate and deploy web and mobile applications faster and with better results, effectively driving ROI in days, not months.```
 
 __Department__ 	: R&D
+
+After I've finished my final university assessment, I've stayed working at Mendix at the position "Lead developer of the Mendix Client Framework". This was the moment when focus was on a stabilization of the Mendix Platform.
 
 __Achievements__ :
 
