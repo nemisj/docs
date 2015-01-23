@@ -35,9 +35,9 @@
 
 Bachelor of Computer Science, (2008).
 
-Major: “Information and Communucation technology”
+*Major*: “Information and Communucation technology”
 
-Minor: "Technical Computer Science"
+*Minor*: "Technical Computer Science"
 
 At the The Hague University of Applied Sciences I've got two directions of the education - major and minor. Both educations were centered around Computer Science, though each got its own level of responsibility.
 
@@ -52,9 +52,9 @@ This cooperation of high-level Java, OO together with design patterns and softwa
 
 ( <http://www.inholland.nl/inhollandcom/> )
 
-Major:"Business Informatics".
+*Major:* "Business Informatics".
 	
-This education was focused mainly on Business processes and there was almost nothing technical. Since I preffer to dive deep into the technologies and software, this education was a bad match for me. As a result of that I haven't finished this study and moved to "The Hague University of Applied Sciences" to do the real software developmnt.
+Education at "The InHolland University of Applied Sciences" was mainly focused on Business processes and there was almost nothing technical involved. Since I preffer to dive deep into the technologies and software, this education was a bad match for me. As a result I haven't finished this study and moved to "The Hague University of Applied Sciences" to do the real software development.
 
 ### 1990 - 2000 : Highschool in Ukraine
 
