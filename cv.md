@@ -82,12 +82,14 @@ Just the usual High-school in the usual city with the usual subjects.
 
 ## Work experience
 
-#### 2010 November - 2015: Developers architect,  Informaat CXP,  Baarn 
+#### 2010 November - Now : Informaat CXP, Baarn 
 
 ( http://www.informaat.com/ )
 
-```Informaat is a design and consultancy agency for digital services, who supports organizations in the development and implementation of their digital strategy.```
-	
+>Informaat is a design and consultancy agency for digital services, who supports organizations in the development and implementation of their digital strategy.
+
+__Role__ : Developers architect
+
 __Department__ 	: R&D
 
 After five years of working at Mendix ( see below ) I've moved on to the new challenges, possibilities and a fresh start. I moved to Informaat, a company with a deep focus on User Experience ( UX ).
@@ -132,11 +134,13 @@ In the time that I worked and working at Informaat CXP I've been busy on a diffe
 
 __Keywords__: node.js, mongo, knockout.js, git, bash-scripting, python, angular.js, jenkins, vagrant, regular-expressions, mocha, socket.io
 
-#### 2008 february - 2010 october: Senior JavaScript developer, Mendix BV, Rotterdam
+#### 2008 February - 2010 October: Mendix BV, Rotterdam
 
 ( http://www.mendix.com/ )
 
-```"Mendix is the app platform company for the enterprise. The Mendix App Platform enables companies to build, integrate and deploy web and mobile applications faster and with better results, effectively driving ROI in days, not months.```
+>Mendix is the app platform company for the enterprise. The Mendix App Platform enables companies to build, integrate and deploy web and mobile applications faster and with better results, effectively driving ROI in days, not months.
+
+__Role__ : Senior JavaScript developer
 
 __Department__ 	: R&D
 
@@ -168,13 +172,15 @@ Besides suprevising a junior JavaScript developer I also was supervise one stude
 
 __Keywords__: IE6 performance, memory analysis,  supervising junior, architecture 
 
-#### 2007 september - 2008 february: Greduate student, Mendix, Rotterdam
+#### 2007 September - 2008 February: , Mendix, Rotterdam
 
 ( http://www.mendix.com/ )
 
-At my last year of the education at The Hague University of Applied Sciences, I had to do the final assesment. My subject of the assesment was "Server-push technoogy and it's implementation inside HTML web apps". I had to investigate in all the possible solutions at that time, find a suited one for Mendix platform and implement it on the server and in the client. There were two deliverablse of this assesment. Working system for the Mendix and process-report for the University.
+__Role__ : Student ( graduation assesment )
 
 __Department__ 	: R&D
+
+At my last year of the education at The Hague University of Applied Sciences, I had to do the final assesment. My subject of the assesment was "Server-push technoogy and it's implementation inside HTML web apps". I had to investigate in all the possible solutions at that time, find a suited one for Mendix platform and implement it on the server and in the client. There were two deliverablse of this assesment. Working system for the Mendix and process-report for the University.
 
 __Achievements__ :
 
@@ -184,15 +190,17 @@ While investigating in different server-push technologies I've choosen a Bayeux 
 
 __Keywords__: Comet, Bayeux, Jetty Continuation
 
-#### 2006 may - 2007 february: Dual student, Mendix, Rotterdam
+#### 2006 May - 2007 February: Mendix, Rotterdam
 
 ( http://www.mendix.com/ )  
+
+__Role__ : Dual student
+
+__Department__ 	: R&D
 
 After I've finished my internship I've decided to stay at Mendix. Despite I was was a student, I've switched to the "Dual education" so that I could combine work and my study together.
 
 When working there as a dual student, I had to perform different tasks, not only related to the JavaScript and dojo, but also to C# and Java.
-
-__Department__ 	: R&D
 
 __Achievements__ :
 
@@ -215,15 +223,17 @@ iGoogle at that time was something very sweet to look at: all these configurable
 
 __Keywords__: WSDL, SOAP, Dime, .NET C#, IE6, DnD
 
-#### 2005 november - 2006 may: Junior JavaScript developer,  Mendix, Rotterdam
+#### 2005 November - 2006 May: Mendix, Rotterdam
 
 ( http://www.mendix.com/ )
 
-Started working at Mendix as student ( Intern/Internship ) as Junior JavaScript developer. This was the beginning of the Mendix history and my proffesional career. Their idea was and is still is very simple: "Build, run and deploy app using Mendidx Platform". Mendix Platform includes Business Modeler, which is used to build an app ( using form-builder ) and deploy it to the Mendix Application Server. Deployed apps run in a browser as single-page applications using Mendix Client Framework. The main difference between Mendix and others was that Mendix generated only configuration of the app totally and no code, which they later called Model Driven Development.
-
-My knowledge base of JavaScript was almost equal to nothing
+__Role__ : Junior JavaScript developer
 
 __Department__ 	: R&D
+
+Started working at Mendix as student ( Intern/Internship ) as Junior JavaScript developer. This was the beginning of the Mendix history and my proffesional career. Their idea was and is still is very simple: "Build, run and deploy app using Mendidx Platform". Mendix Platform includes Business Modeler, which is used to build an app ( using form-builder ) and deploy it to the Mendix Application Server. Deployed apps run in a browser as single-page applications using Mendix Client Framework. The main difference between Mendix and others was that Mendix generated only configuration of the app totally and no code, which they later called Model Driven Development.
+
+My knowledge base of JavaScript was almost equal to nothing.
 
 __Achievements__ :
 
