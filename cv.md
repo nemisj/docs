@@ -35,9 +35,9 @@
 
 Bachelor of Computer Science, (2008).
 
-*Major*: “Information and Communucation technology”
+__Major__: “Information and Communucation technology”
 
-*Minor*: "Technical Computer Science"
+__Minor__: "Technical Computer Science"
 
 At the The Hague University of Applied Sciences I've got two directions of the education - major and minor. Both educations were centered around Computer Science, though each got its own level of responsibility.
 
@@ -46,19 +46,19 @@ Major education was concentrated on high level software development. I was learn
 Minor education "Technical Computer Science" gave me C/C++ and assembly languages, embedded systems (including embedded software and robotica), TCP/IP stack and all other cool low level aspects of software/hardware.
 
 This cooperation of high-level Java, OO together with design patterns and software develpoment methodolgies combined with low level C/C++ and networks helps me to review problems from different perspectives and solve them on correct levels.
-	
+
 
 ### 2003 - 2004 : __The InHolland University of Applied Sciences__
 
 ( <http://www.inholland.nl/inhollandcom/> )
 
-*Major:* "Business Informatics".
+__Major__: "Business Informatics".
 	
 Education at "The InHolland University of Applied Sciences" was mainly focused on Business processes and there was almost nothing technical involved. Since I preffer to dive deep into the technologies and software, this education was a bad match for me. As a result I haven't finished this study and moved to "The Hague University of Applied Sciences" to do the real software development.
 
-### 1990 - 2000 : Highschool in Ukraine
+### 1990 - 2000 : High-school in Ukraine
 
-Just the usual Highschool in the usual city with the usual subjects.
+Just the usual High-school in the usual city with the usual subjects.
 
 
 ## Courses
@@ -82,31 +82,30 @@ Just the usual Highschool in the usual city with the usual subjects.
 
 ## Work experience
 
-#### 2010 november - till now: Developers architect,  Informaat CXP,  Baarn 
+#### 2010 November - 2015: Developers architect,  Informaat CXP,  Baarn 
 
-( http://www.informaat-cxp.com/ )
+( http://www.informaat.com/ )
 
-After five years of working at Mendix ( see below ) I've moved on to the new challenges, possibilities and a fresh start. I moved to Informaat CXP, a company with a deep focus on User Experience ( UX ).
+After five years of working at Mendix ( see below ) I've moved on to the new challenges, possibilities and a fresh start. I moved to Informaat, a company with a deep focus on User Experience ( UX ).
 
-Around this time, Informaat CXP started to develop its own platform called Customer Experience Platform ( CXP ) and tooling (Dialogica). It's was a starting point for this company in to the R&D branch. A lot had to happen, researched and tried out. This is tho moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
+Around this time, Informaat started to develop its own platform called Customer Experience Platform ( CXP ) and tooling (Dialogica). It's was a starting point for this company into the R&D branch. A lot had to happen, researched and tried out to bring the platform in production state. This was the moment where I started to work with Node.js, MongoDB, AngularJS, grunt and other cutting-edge technologies.
 
 	
 __Department__ 	: R&D
 
 __Achievements__ :	 
 	
-* Architecturing and implementing schema based persistence layer ( using Node.js, MongoDB and websockets. )
+* Creating architecture and implementing schema based persistence layer ( using NodeJS, MongoDB and SocketIO. )
 
-One of my primary ideas was that a product in a start-up company is exposed to rapid changes. In order to be able to deal with fast changes, our architecture should be scaleable enough to allow changes to happen fast and seamlessly. This meant that changing parts should be as flexible as possible and things which are more static and stable should have a robust architecture and mature foundation.
+One of my primary ideas are that a product in a start-up company is exposed to rapid changes. In order to be able to deal with fast changes, our architecture should be scalable enough to allow any changes to happen fast and seamless. This mean that changing one part of the architecture should be as flexible as possible and should not trigger "falling domino effect".
 
-The Domain Model of the start-up application is something that changes constantly. For that reason I have implemented schema based persistence layer, which allows us to make changes to our Domain Model quickly without any further modifications to the back-end landscape. This is a seamless process that works not only for our back-end machinery, but also changes are instantly available in the front-end.
+There are always parts in the architecture which are static and another ones which change frequently. The Domain Model of the start-up application is something that changes frequently. For that reason I have implemented schema based persistence layer, which allows us to make changes to our Domain Model quickly without any further modifications to the back-end landscape. This is a seamless process that works not only for our back-end machinery, but also changes are instantly available in the front-end.
 
+The main differences of this system from other schema-based persistence layers is that it is totally relational at the backend, but Document Based on the front-end. A very powerful hybrid form which allows JSON manipulation on the front-end with the relational integrity checking at the back-end.
 
-The main differences of this system from other schema-based persistence layers is that it is totally relational at the backend, but Document Based on the front-end. A very powerfull hybrid form which allows json manipulation on the front-end with the relational integrity checking at the back-end.
+Another important aspect is that the data changes are real-time, and changing a data inside browser of one client, will be broadcast to all of the connected clients.
 
-Another important aspect is that the data changes are real-time, and changing a data inside browser of one client, will be broadcasted to all of the connected clients.
-
-* Building single-page data-driven client framework ( using knockout.js )
+* Building single-page data-driven client framework ( using Knockout.js )
 
 Our platform delivers a lot of different artifacts and one of this artifacts is the touchpoint bundle. This bundle is a completely standalone HTML5 app which can run as a single-page website or embedded into another portal/web-site.
 
