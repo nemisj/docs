@@ -68,7 +68,7 @@ Just the usual Highschool in the usual city with the usual subjects.
 
 ( <http://www.sn.nl/> )
 
-"In this course they teach how to communicate better, how to deal with critics and how to define more conrcete aims while beening an IT person."
+"Profilering en Zelfmanagement voor ICT-ers" offers communication skills training that teaches how to deal with critics and how to define more conrcete aims while beening an IT person.
 
 * 2007
 : MCP - “Analyzing Requirements 
