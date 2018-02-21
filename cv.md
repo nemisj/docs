@@ -63,6 +63,9 @@ Just the usual High-school in the usual city with the usual subjects.
 
 ## Courses
 
+* 2018
+: Penetrtation testing with kali linux ( at OffensiveSecurity )
+
 * 2011
 : Profilering en Zelfmanagement voor ICT-ers ( at Schouten & Nelissen )
 
@@ -82,7 +85,12 @@ Just the usual High-school in the usual city with the usual subjects.
 
 ## Work experience
 
-#### 2010 November - Now : Informaat CXP, Baarn 
+#### 2015 March - 2016 February : Liberty Global, Schiphol-Rijk
+
+__Role__ : Software engineer
+__Department__ : R&D
+
+#### 2010 November - 2015 February : Informaat CXP, Baarn 
 
 ( http://www.informaat.com/ )
 
